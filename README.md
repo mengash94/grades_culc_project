@@ -12,6 +12,7 @@ This application calculates the average of the grades. The average is calculated
 
 ## Usage/Examples
 url app website in render:
+https://gardes-calculator.onrender.com 
 
 
 
